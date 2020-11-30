@@ -1,0 +1,169 @@
+/*home*/
+
+.banner {
+    background: url(../img/bg1.png) no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+    color: #fff;
+}
+
+.menu {
+    background-color: transparent !important;
+}
+
+.menu .nav-link {
+    color: #f6f9fa !important;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.navbar-expand-lg {
+    background: transparent !important;
+}
+
+h1 {
+    margin-top: 50px;
+    padding: 20px 35px;
+    font-size: 50px;
+    background: rgb(0, 0, 0, 0.5);
+    /*    background: #2e2f2d;*/
+    margin-bottom: 30px;
+}
+
+p {
+    margin-bottom: 70px;
+}
+
+.bcd {
+    width: 28px;
+    height: 2px;
+    background: #fff;
+    margin-bottom: 35px;
+}
+
+.btn1 {
+    color: #fff;
+    border-color: #fff;
+    padding: 15px 80px;
+    text-transform: uppercase;
+    margin-bottom: 200px;
+}
+
+.welcome {
+    padding-top: 120px;
+    background: #f6f6f6;
+    width: 100%;
+    float: left;
+    padding-bottom: 110px;
+}
+
+h2 {
+    padding-top: 150;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+.welcome .bcd {
+    background: #a5a5a5;
+    margin: 28px 0;
+}
+
+.welcome p {
+    color: #a5a5a5;
+    height: 3px;
+    margin-bottom: 50px;
+}
+
+.title {
+    background: #28282e;
+    padding: 130px 0;
+    width: 100%;
+    float: left;
+    color: #fff;
+}
+
+.title .bcd {
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
+.title .img-fluid {
+    padding-top: 100px;
+}
+
+.title .btn1 {
+    padding: 15px 40px;
+    margin-bottom: 40px;
+}
+
+.img-position {
+    position: relative;
+}
+
+.img-center {
+    position: absolute;
+}
+
+footer {
+    padding: 5px 0;
+    color: #fff;
+    padding-top: 40px;
+    background: #ef4035;
+}
+
+footer p {
+    margin-bottom: 40px;
+}
+
+
+/*about*/
+
+header {
+    padding: 20px 0;
+    border-bottom: 5px solid #e4e4e4;
+    /*    margin-bottom: 90px;*/
+}
+
+.about {
+    padding-top: 90px;
+}
+
+.about h2 {
+    margin-bottom: 45px;
+}
+
+.fa-angle-left {
+    font-size: 250px;
+    font-weight: bolder;
+}
+
+
+/*contact*/
+
+.contact {
+    background: #ee4a3f;
+    color: #fff;
+    padding-top: 50px;
+}
+
+.contact p {
+    padding-top: 45px;
+    margin-bottom: 50px;
+}
+
+input {
+    background-color: #ff6258 !important;
+    border: none !important;
+    outline: 0;
+}
+
+.btn2 {
+    color: #fff;
+    border: none;
+    font-style: italic;
+    margin-top: 70px;
+    padding: 13px 32px;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+}
